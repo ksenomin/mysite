@@ -1,0 +1,403 @@
+# Translation of Plugins - Team Members - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Team Members - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-16 10:42:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Team Members - Development (trunk)\n"
+
+#: inc/tmm-metaboxes-members.php:324 inc/tmm-metaboxes-members.php:549
+msgid "We recommend that all photos are the same sizes."
+msgstr "Мы рекомендуем, чтобы все фото были одного размера."
+
+#: inc/tmm-metaboxes-members.php:310
+msgid "Your member's phone number must be entered in the Link URL field (e.g. tel:+11234567890). Title attribute can be left blank."
+msgstr "Номер телефона вашего участника должен быть введен в поле URL ссылки (напр., тел: +11234567890). Атрибут title можно оставить пустым."
+
+#: inc/tmm-metaboxes-members.php:304
+msgid "Links with the email type open your visitors' mail client."
+msgstr "Ссылки с типом электронной почты открывают почтовый клиент посетителей."
+
+#: inc/tmm-metaboxes-members.php:82
+msgid "Update biography"
+msgstr "Обновить биографию"
+
+#: inc/tmm-metaboxes-members.php:36
+msgid "Manage your team"
+msgstr "Управляйте своей командой"
+
+#: inc/tmm-metaboxes-members.php:22
+msgid "Phone"
+msgstr "Телефон"
+
+#: inc/tmm-metaboxes-members.php:15
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/tmm-metaboxes-settings.php:183
+msgid "Fonts to use"
+msgstr "Шрифты для использования"
+
+#: inc/tmm-metaboxes-settings.php:151
+msgid "Photo link behavior"
+msgstr "Поведение ссылки на фото"
+
+#. translators: General settings
+#: inc/tmm-metaboxes-settings.php:131
+msgid "General"
+msgstr "Основные"
+
+#: inc/tmm-metaboxes-settings.php:63
+msgid "5 per line"
+msgstr "5 на строку"
+
+#: inc/tmm-metaboxes-settings.php:62
+msgid "4 per line"
+msgstr "4 на строку"
+
+#: inc/tmm-metaboxes-settings.php:61
+msgid "3 per line"
+msgstr "3 на строку"
+
+#: inc/tmm-metaboxes-settings.php:60
+msgid "2 per line"
+msgstr "2 на строку"
+
+#: inc/tmm-metaboxes-settings.php:59
+msgid "1 per line"
+msgstr "1 на строку"
+
+#: inc/tmm-metaboxes-settings.php:46
+msgid "Center"
+msgstr "По центру"
+
+#: inc/tmm-metaboxes-settings.php:19
+msgid "Same window"
+msgstr "Тоже окно"
+
+#: inc/tmm-metaboxes-settings.php:18
+msgid "New window"
+msgstr "Новое окно"
+
+#: inc/tmm-metaboxes-members.php:587
+msgid "Add a member"
+msgstr "Добавить участника"
+
+#: inc/tmm-metaboxes-members.php:475
+msgid "e.g. Facebook page"
+msgstr "напр., страница на Faceook"
+
+#: inc/tmm-metaboxes-members.php:346 inc/tmm-metaboxes-members.php:568
+msgid "e.g. http://your-site.com/full-member-page/"
+msgstr "напр., http://your-site.com/full-member-page/"
+
+#: inc/tmm-metaboxes-members.php:342 inc/tmm-metaboxes-members.php:565
+msgid "Your visitors will be redirected to this link if they click the member's photo."
+msgstr "Ваши посетители будут перенаправлены на эту ссылку, если они нажмут на фото участника."
+
+#: inc/tmm-metaboxes-members.php:340 inc/tmm-metaboxes-members.php:563
+msgid "Photo link"
+msgstr "Ссылка на фото"
+
+#: inc/tmm-metaboxes-members.php:316 inc/tmm-metaboxes-members.php:541
+msgid "Photo"
+msgstr "Фото"
+
+#: inc/tmm-metaboxes-members.php:306 inc/tmm-metaboxes-members.php:535
+msgid "Your member's email address must be entered in the Link URL field. Title attribute can be left blank."
+msgstr "Адрес электронной почты вашего участника должен быть введен в поле URL-адрес ссылки. Атрибут title можно оставить пустым."
+
+#: inc/tmm-metaboxes-members.php:297 inc/tmm-metaboxes-members.php:527
+msgid "e.g. http://gp.com/member-profile"
+msgstr "напр., http://gp.com/member-profile"
+
+#: inc/tmm-metaboxes-members.php:291 inc/tmm-metaboxes-members.php:522
+msgid "e.g. Google+ page"
+msgstr "напр., страница на Google+"
+
+#: inc/tmm-metaboxes-members.php:272 inc/tmm-metaboxes-members.php:505
+msgid "e.g. http://tw.com/member-profile"
+msgstr "напр., http://tw.com/member-profile"
+
+#: inc/tmm-metaboxes-members.php:266 inc/tmm-metaboxes-members.php:500
+msgid "e.g. Twitter page"
+msgstr "напр., страница на Twitter"
+
+#: inc/tmm-metaboxes-members.php:247 inc/tmm-metaboxes-members.php:483
+msgid "e.g. http://fb.com/member-profile"
+msgstr "напр., http://fb.com/member-profile"
+
+#: inc/tmm-metaboxes-members.php:243 inc/tmm-metaboxes-members.php:480
+msgid "Link URL"
+msgstr "URL ссылки"
+
+#: inc/tmm-metaboxes-members.php:238
+msgid "e.g. Faceook page"
+msgstr "напр., страница на Faceook"
+
+#: inc/tmm-metaboxes-members.php:234 inc/tmm-metaboxes-members.php:472
+msgid "Optional. This is the HTML <a> tag's title attribute."
+msgstr "Необязательно. Это <a>атрибут заголовка тега HTML."
+
+#: inc/tmm-metaboxes-members.php:218 inc/tmm-metaboxes-members.php:456
+msgid "Link type"
+msgstr "Тип ссылки"
+
+#: inc/tmm-metaboxes-members.php:213 inc/tmm-metaboxes-members.php:449
+msgid "These links will appear below your members' biography."
+msgstr "Эти ссылки появятся под биографией ваших участников."
+
+#: inc/tmm-metaboxes-members.php:211 inc/tmm-metaboxes-members.php:447
+msgid "Social links"
+msgstr "Ссылки соцсетей"
+
+#: inc/tmm-metaboxes-members.php:202 inc/tmm-metaboxes-members.php:438
+msgid "Edit biography"
+msgstr "Изменить биографию"
+
+#: inc/tmm-metaboxes-members.php:177 inc/tmm-metaboxes-members.php:418
+msgid "Edit your member's biography by clicking the button below. Once updated, it will show up here."
+msgstr "Измените биографию вашего участника, нажав кнопку ниже. После обновления он появится здесь."
+
+#: inc/tmm-metaboxes-members.php:175 inc/tmm-metaboxes-members.php:187
+#: inc/tmm-metaboxes-members.php:416 inc/tmm-metaboxes-members.php:426
+msgid "Description/biography"
+msgstr "Description/biography"
+
+#: inc/tmm-metaboxes-members.php:167 inc/tmm-metaboxes-members.php:408
+msgid "e.g. Project manager"
+msgstr "напр., руководитель проекта"
+
+#: inc/tmm-metaboxes-members.php:158 inc/tmm-metaboxes-members.php:400
+msgid "e.g. Doe"
+msgstr "напр., Иванов"
+
+#: inc/tmm-metaboxes-members.php:149 inc/tmm-metaboxes-members.php:392
+msgid "e.g. John"
+msgstr "напр., John"
+
+#: inc/tmm-metaboxes-members.php:132 inc/tmm-metaboxes-members.php:376
+msgid "Clone"
+msgstr "Клонировать"
+
+#: inc/tmm-metaboxes-members.php:100
+msgid "Instant preview"
+msgstr "Мгновенный предпросмотр"
+
+#: inc/tmm-metaboxes-members.php:98
+msgid "Collapse all"
+msgstr "Свернуть все"
+
+#: inc/tmm-metaboxes-members.php:95
+msgid "Expand all"
+msgstr "Развернуть все"
+
+#: inc/tmm-metaboxes-members.php:85
+msgid "Cancel"
+msgstr "Отмена"
+
+#: inc/tmm-metaboxes-members.php:72
+msgid "Close preview"
+msgstr "Закрыть предпросмотр"
+
+#: inc/tmm-metaboxes-members.php:19
+msgid "Research Gate"
+msgstr "ResearchGate"
+
+#: inc/tmm-metaboxes-members.php:18
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/tmm-metaboxes-members.php:17
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/tmm-metaboxes-members.php:16
+msgid "VK"
+msgstr "ВКонтакте"
+
+#: inc/tmm-metaboxes-members.php:14
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/tmm-metaboxes-members.php:10
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/tmm-metaboxes-members.php:9
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/tmm-metaboxes-members.php:8
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/tmm-metaboxes-members.php:7
+msgid "-"
+msgstr "-"
+
+#: inc/tmm-admin-scripts.php:26
+msgid "This is only a preview, shortcodes used in the fields will not be rendered and results may vary depending on your container's width."
+msgstr "Это только предварительный просмотр, шорткоды, используемые в полях, не будут отображаться, и результаты могут отличаться в зависимости от ширины вашего контейнера."
+
+#: inc/tmm-admin-scripts.php:25
+msgid "Add at least <strong>1</strong> member to preview the team."
+msgstr "Добавьте хотя бы <strong>1</strong> участника, чтобы просмотреть команду."
+
+#: inc/tmm-admin-scripts.php:24 inc/tmm-save-metaboxes.php:77
+msgid "Untitled"
+msgstr "Без названия"
+
+#. Author URI of the plugin
+#: tmm.php
+msgid "https://wpdarko.com"
+msgstr "https://wpdarko.com"
+
+#. Author of the plugin
+#: tmm.php
+msgid "WP Darko"
+msgstr "WP Darko"
+
+#. Description of the plugin
+#: tmm.php
+msgid "A responsive, simple and clean way to display your team. Create new members, add their positions, bios, social links and copy-paste the shortcode into any post/page. Find help and information on our <a href=\"https://wpdarko.com/support\">support site</a>. This free version is NOT limited and does not contain any ad. Check out the <a href='https://wpdarko.com/team-members'>PRO version</a> for more great features."
+msgstr "Адаптивный, простой и понятный способ показать свою команду. Создавайте новых участников, добавляйте их должности, биографию, социальные ссылки и копируйте и вставляйте шорткод в любой пост/страницу. Найдите помощь и информацию на нашем <a href=\"https://wpdarko.com/support\">сайте поддержки</a>. Эта бесплатная версия НЕ имеет ограничений и не содержит рекламы. Ознакомьтесь с <a href='https://wpdarko.com/team-members'>PRO-версией</a>, чтобы узнать о дополнительных функциях."
+
+#. Plugin URI of the plugin
+#: tmm.php
+msgid "https://wpdarko.com/team-members"
+msgstr "https://wpdarko.com/team-members"
+
+#. Plugin Name of the plugin
+#: tmm.php
+msgid "Team Members"
+msgstr "Team Members"
+
+#: inc/tmm-post-type.php:57
+msgid "Team draft updated."
+msgstr "Обновлен черновик команды."
+
+#: inc/tmm-post-type.php:56
+msgid "Team saved."
+msgstr "Команда сохранена."
+
+#: inc/tmm-post-type.php:55
+msgid "Team published."
+msgstr "Команда опубликована."
+
+#: inc/tmm-post-type.php:53 inc/tmm-post-type.php:54
+msgid "Team updated."
+msgstr "Обновление команды."
+
+#: inc/tmm-post-type.php:22
+msgid "No Teams found in Trash."
+msgstr "Команды не найдены в корзине."
+
+#: inc/tmm-post-type.php:21
+msgid "No Teams found."
+msgstr "Команды не найдены."
+
+#: inc/tmm-post-type.php:20
+msgid "Search Teams"
+msgstr "Поиск команды"
+
+#: inc/tmm-post-type.php:19
+msgid "All Teams"
+msgstr "Все команды"
+
+#: inc/tmm-post-type.php:18
+msgid "View Team"
+msgstr "Команда"
+
+#: inc/tmm-post-type.php:17
+msgid "Edit Team"
+msgstr "Редактировать команду"
+
+#: inc/tmm-post-type.php:16
+msgid "New Team"
+msgstr "Новая команда"
+
+#: inc/tmm-post-type.php:15
+msgid "Add New Team"
+msgstr "Добавить новую команду"
+
+#: inc/tmm-post-type.php:14
+msgid "Add New"
+msgstr "Добавить новое"
+
+#: inc/tmm-post-type.php:11 inc/tmm-post-type.php:13
+msgid "Team"
+msgstr "Команда"
+
+#: inc/tmm-post-type.php:10 inc/tmm-post-type.php:12
+msgid "Teams"
+msgstr "Команды"
+
+#: inc/tmm-metaboxes-settings.php:49
+msgid "Justify"
+msgstr "По ширине"
+
+#: inc/tmm-metaboxes-settings.php:48
+msgid "Right"
+msgstr "Справа"
+
+#: inc/tmm-metaboxes-settings.php:47
+msgid "Left"
+msgstr "Слева"
+
+#: inc/tmm-metaboxes-settings.php:137
+msgid "Members per line"
+msgstr "Кол-во участников в строке"
+
+#: inc/tmm-metaboxes-settings.php:197
+msgid "Main color"
+msgstr "Основной цвет"
+
+#: inc/tmm-metaboxes-members.php:332 inc/tmm-metaboxes-members.php:555
+msgid "Upload photo"
+msgstr "Загрузить фото"
+
+#: inc/tmm-metaboxes-members.php:322 inc/tmm-metaboxes-members.php:547
+msgid "Member's photo"
+msgstr "Фото участника"
+
+#: inc/tmm-metaboxes-members.php:232 inc/tmm-metaboxes-members.php:470
+msgid "Title attribute"
+msgstr "Атрибут заголовка"
+
+#: inc/tmm-metaboxes-members.php:23
+msgid "Other links"
+msgstr "Другие ссылки"
+
+#: inc/tmm-metaboxes-members.php:21
+msgid "Website"
+msgstr "Вебсайт"
+
+#: inc/tmm-metaboxes-members.php:20
+msgid "Email"
+msgstr "Email"
+
+#: inc/tmm-metaboxes-members.php:163 inc/tmm-metaboxes-members.php:405
+msgid "Job/role"
+msgstr "Работа/роль"
+
+#: inc/tmm-metaboxes-members.php:154 inc/tmm-metaboxes-members.php:397
+msgid "Lastname"
+msgstr "Фамилия"
+
+#: inc/tmm-metaboxes-members.php:145 inc/tmm-metaboxes-members.php:389
+msgid "First name"
+msgstr "Имя"
+
+#: inc/tmm-metaboxes-members.php:140 inc/tmm-metaboxes-members.php:384
+msgid "Member details"
+msgstr "Сведения об участнике"
+
+#: inc/tmm-metaboxes-settings.php:35
+msgid "Default"
+msgstr "Изначально"

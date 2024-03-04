@@ -1,0 +1,175 @@
+# Translation of Themes - Yoga Fitness in Russian
+# This file is distributed under the same license as the Themes - Yoga Fitness package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-17 07:54:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Yoga Fitness\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Yoga Fitness is a mobile-friendly and SEO optimized theme with a beautiful design for fitness and yoga. With Yoga Fitness, you can create a website for yoga classes, fitness centers, gyms, mediation classes, wellness center,  gymnastic coaching, spa, massage center, beauty salon, and much more. The theme includes sections like Banner with CTA buttons, services, testimonials, team, and many more to provide detailed information about your business and turn your visitors into customers. The theme is optimized to load faster and provide a smooth user experience. Yoga Fitness is translation ready, RTL ready, and WooCommerce compatible. Check demo at https://blossomthemes.com/theme-demo/?theme=yoga-fitness, read the documentation at https://docs.blossomthemes.com/yoga-fitness/, and get support at https://blossomthemes.com/support-ticket/."
+msgstr "Yoga Fitness- это дружественная к мобильным устройствам тема, с обширной SEO оптимизацией, специально создана для проектов связанных с фитнесом и йогой.  На базе темы Yoga Fitness, вы можете создавать уникальный сайты для занятия йогой, фитнес центров, спортивных залов, классов для медитации, велнес центров, гимнастических кружков, СПА центров, массажных салонов, салонов красоты и многие другие интересные проекты. Тема включает в себя готовые баннеры с CTA кнопками, услуги, отзывы, информацию о вашей команде и много дополнительной информации о вашем бизнесе, превращая ваших посетителей, в ваших клиентов.  Yoga Fitness – очень быстрая тема, что делает ее очень удобный для ваших клиентов. Yoga Fitness поддерживает множество языков, RTL, включая WooCommerce. Изучите демо  https://blossomthemes.com/theme-demo/?theme=yoga-fitness, документацию https://docs.blossomthemes.com/yoga-fitness/ и  техническую поддержку https://blossomthemes.com/support-ticket/."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Yoga Fitness"
+msgstr "Yoga Fitness"
+
+#: functions.php:224
+msgid "Flush Local Fonts Cache"
+msgstr "Очистить кэш локальных шрифтов"
+
+#: functions.php:210
+msgid "Flush Local Font Files"
+msgstr "Очистить файлы локальных шрифтов"
+
+#: functions.php:208
+msgid "Click the button to reset the local fonts cache"
+msgstr "Нажмите кнопку, чтобы сбросить кэш локальных шрифтов"
+
+#: functions.php:200
+msgid "Preloading Google fonts will speed up your website speed."
+msgstr "Предварительная загрузка шрифтов Google ускорит работу вашего веб-сайта."
+
+#: functions.php:199
+msgid "Preload Local Fonts"
+msgstr "Предзагрузка локальных шрифтов"
+
+#: functions.php:180
+msgid "Enable to load google fonts from your own server instead from google's CDN. This solves privacy concerns with Google's CDN and their sometimes less-than-transparent policies."
+msgstr "Включите загрузку шрифтов Google с вашего собственного сервера, а не с CDN Google. Это решает проблемы конфиденциальности, у CDN Google иногда непрозрачная политика конфиденциальности."
+
+#: functions.php:179
+msgid "Load Google Fonts Locally"
+msgstr "Загружать Google шрифты локально"
+
+#: functions.php:580
+msgid "go to top"
+msgstr "Перейти наверх"
+
+#: functions.php:573
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: functions.php:573
+msgid " Powered by %s"
+msgstr " На платформе %s"
+
+#: functions.php:571
+msgid " Blossom Themes"
+msgstr " Темы Blossom"
+
+#: functions.php:570
+msgid " Yoga Fitness | Developed By "
+msgstr " Yoga Fitness | Разработано"
+
+#: functions.php:428
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:427
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:426
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:402
+msgid "View Cart"
+msgstr "Перейти в корзину"
+
+#: functions.php:360 functions.php:376
+msgid "View your shopping cart"
+msgstr "Просмотреть корзину"
+
+#: functions.php:289
+msgid "Enable to show Shopping cart in the header."
+msgstr "Включите, чтобы показать корзину в шапке."
+
+#: functions.php:288
+msgid "Shopping Cart"
+msgstr "Корзина"
+
+#: functions.php:264
+msgid "This is the layout for header."
+msgstr "Это макет шапки."
+
+#: functions.php:243 functions.php:263
+msgid "Header Layout"
+msgstr "Макет шапки"
+
+#: functions.php:155
+msgid "Change the font size of your site."
+msgstr "Измените размер шрифта сайта."
+
+#: functions.php:154
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: functions.php:132
+msgid "Secondary font of the site."
+msgstr "Дополнительный шрифт сайта."
+
+#: functions.php:131
+msgid "Secondary Font"
+msgstr "Дополнительный шрифт"
+
+#: functions.php:110
+msgid "Primary font of the site."
+msgstr "Основной шрифт сайта."
+
+#: functions.php:109
+msgid "Primary Font"
+msgstr "Основной шрифт"
+
+#: functions.php:89
+msgid "Typography Settings"
+msgstr "Настройка типографии"
+
+#: functions.php:81
+msgid "Customize Color, Typography & Background Image"
+msgstr "Настройка цвета, типографии и фонового изображения"
+
+#: functions.php:80
+msgid "Appearance Settings"
+msgstr "Настройки внешнего вида"
+
+#: functions.php:62
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Ссылка на документацию: %1$sНажмите здесь.%2$s"
+
+#: functions.php:60
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Ссылка на демо: %1$sНажмите здесь.%2$s"
+
+#: functions.php:47
+msgid "Demo & Documentation"
+msgstr "Демо и документация"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://blossomthemes.com/wordpress-themes/yoga-fitness/"
+msgstr "https://blossomthemes.com/wordpress-themes/yoga-fitness/"
